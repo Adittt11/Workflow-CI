@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ferda/Downloads/Submission/Workflow-CI/MLProject/mlruns/0/c77accea4bd7447d9a628a0817306db8/artifacts
+end_time: 1766587120482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c77accea4bd7447d9a628a0817306db8
+run_name: unleashed-trout-138
+run_uuid: c77accea4bd7447d9a628a0817306db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766587111513
+status: 4
+tags: []
+user_id: ferda
